@@ -1,0 +1,4 @@
+configuration,best_epoch,precision,recall,map50,map50_95
+CMT-Ti,88,0.6717,0.8111,0.8040,0.4018
+DALFE,75,0.6820,0.8472,0.8403,0.4289
+Full SER-CMT (DALFE initialization),81,0.7287,0.8370,0.8401,0.4293
